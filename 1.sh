@@ -4,3 +4,4 @@ read message
 git add .
 git commit -m "$message"
 git log
+git push -u origin main
